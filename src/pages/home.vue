@@ -19,7 +19,7 @@
 
 		<!-- Breadcrumb -->
 		<ol class="breadcrumb">
-			<li><a v-link="{ name: 'home' }">AdminPlus</a></li>
+			<li><a v-link="{ name: 'home' }">BS Layout</a></li>
 			<li class="active">Fixed layout</li>
 		</ol>
 

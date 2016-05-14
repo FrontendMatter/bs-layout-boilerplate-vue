@@ -31,7 +31,7 @@
 
 		<!-- Breadcrumb -->
 		<ol class="breadcrumb">
-			<li><a v-link="{ name: 'home' }">AdminPlus</a></li>
+			<li><a v-link="{ name: 'home' }">BS Layout</a></li>
 			<li class="active">Sidebar layout</li>
 		</ol>
 
